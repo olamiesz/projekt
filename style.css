@@ -1,0 +1,19 @@
+*{
+    font-family: verdana;
+    margin:0px;
+    padding:0px;
+}
+* p{
+    font-size: 1.3vh;
+    /*font-size: 1.3vh;*/
+}
+html, body{
+    width: 100vw;
+}
+.topbar{
+	width: 100vw;
+	min-width: 900px;
+	height: 5vh;
+	min-height: 60px;
+	background-color: black;
+}
